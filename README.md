@@ -4,7 +4,7 @@
 This repository contains a Convolutional Neural Network (CNN) model trained to classify images from the CIFAR-10 dataset. The trained model has been successfully deployed as an interactive web application on Hugging Face Spaces.
 
 ## 🚀 Live Demo
-* **Hugging Face App:** [Click here to try the model](Link_to_your_Hugging_Face_Space]https://huggingface.co/spaces/SajjadHosen8574/CIFAR-10-CNN)
+* **Hugging Face App:** [Click here to try the model](https://huggingface.co/spaces/SajjadHosen8574/CIFAR-10-CNN)
 
 
 ## 🧠 Dataset
